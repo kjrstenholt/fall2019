@@ -4,7 +4,15 @@ Learning Objectives
     2. Create a folder and put a file in it.
     3. Practice committing and getting back to an earlier commit.
     4. Connect to a remote repository on Github
+<<<<<<< HEAD
     5. Complain about my credentials.
     6. We think we got it hashed out.
 
     OK this is the syllabus on master branch.
+=======
+    5. Complain about my credentials, will ya? SHEESH.
+    6. We think we got it hashed out.
+
+    Hey I'm adding changes to the syllabus that I really shouldn't be doing! That's so and so's job!
+    But I'm doing it here, and in unit3_draft, too. Darn!
+>>>>>>> unit3_draft
