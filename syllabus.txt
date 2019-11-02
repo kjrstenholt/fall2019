@@ -4,5 +4,7 @@ Learning Objectives
     2. Create a folder and put a file in it.
     3. Practice committing and getting back to an earlier commit.
     4. Connect to a remote repository on Github
-    5. Complain about my credentials, will ya?
+    5. Complain about my credentials.
     6. We think we got it hashed out.
+
+    OK this is the syllabus on master branch.
