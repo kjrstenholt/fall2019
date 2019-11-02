@@ -6,3 +6,6 @@ Learning Objectives
     4. Connect to a remote repository on Github
     5. Complain about my credentials, will ya?
     6. We think we got it hashed out.
+
+    Hey I'm adding changes to the syllabus that I really shouldn't be doing! That's so and so's job!
+    But I'm doing it here, and in unit3_draft, too. Darn!
