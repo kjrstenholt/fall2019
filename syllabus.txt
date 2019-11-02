@@ -2,3 +2,4 @@ This is the syllabus file.
 Learning Objectives
     1. Commit a file to Git.
     2. Create a folder and put a file in it.
+    3. Practice committing and getting back to an earlier commit.
