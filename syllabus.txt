@@ -5,3 +5,4 @@ Learning Objectives
     3. Practice committing and getting back to an earlier commit.
     4. Connect to a remote repository on Github
     5. Complain about my credentials, will ya?
+    6. We think we got it hashed out.
